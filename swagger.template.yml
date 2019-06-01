@@ -9,6 +9,7 @@ host: {{host}}
 basePath: {{basePath}}
 produces:
   - application/json
+  - text/html
 {{parameters}}
 {{paths}}
 {{definitions}}
